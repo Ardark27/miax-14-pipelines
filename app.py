@@ -1,2 +1,3 @@
 def handler(event, context):
-    return "Hola"
+    print("Hello World")
+    return "Esta es la segunda version"
